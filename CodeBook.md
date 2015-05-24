@@ -7,6 +7,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 For more information on the data inside the Zip file, please refer to:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+- All measurements are normalized and bounded within [-1,1]
+- All measurements are gravity acceleration signals measured in 'g'
+
 A new data file is created with the following columns:
 Activity - a descriptive name for the activity done
 Subjects - a number identifying the subject performing the activity
