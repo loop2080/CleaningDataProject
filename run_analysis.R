@@ -58,6 +58,8 @@ names(newData) <- c(ids, newNames)
 # write the new data into a table
 write.table(newData, file="newData.txt", row.name=FALSE)
 
+#end of script
+
 
 
 
