@@ -8,7 +8,7 @@ For more information on the data inside the Zip file, please refer to:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 A new data file is created with the following columns:
-Activity - a descriptive name for the activity done     
+Activity - a descriptive name for the activity done
 Subjects - a number identifying the subject performing the activity
 TimeBodyAcc-mean()-X-mean-per-subject-activity  - mean of time series for Body accelerometer on X axis for the row's activity and subject
 TimeBodyAcc-mean()-Y-mean-per-subject-activity - mean of time series for Body accelerometer on Y axis for the row's activity and subject
